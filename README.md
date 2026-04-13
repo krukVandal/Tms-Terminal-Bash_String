@@ -11,4 +11,6 @@
 
 <img width="1208" height="732" alt="image" src="https://github.com/user-attachments/assets/eeee1a79-81e3-4782-987f-726dbae13219" />
 
-4. 
+4. Не смог вывести одну почту которая отделена кавычкой o-lupin@mail.ru
+
+<img width="1208" height="732" alt="image" src="https://github.com/user-attachments/assets/b37ac3d4-cc2b-47a4-9f25-12f196bdb92e" />
